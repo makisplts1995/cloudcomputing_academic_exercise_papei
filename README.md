@@ -74,6 +74,17 @@ The project is built on a **Microservices Architecture** orchestrated by **Docke
 
 ## 🔧 Configuration
 
+### 🔑 Groq API Setup (Required for AI Features)
+
+The application uses **Groq Cloud** for the AI personality features. You must provide your own API key:
+
+1.  Get an API Key from [Groq Console](https://console.groq.com/keys).
+2.  Open the Budibase App (**Design** tab).
+3.  Go to **Data Sources** -> **Groq**.
+4.  Update the `Authorization` header with your key: `Bearer gsk_...`
+
+### Defaults
+
 The application is pre-configured with default credentials for development:
 
 - **CouchDB**: `admin` / `admin`
