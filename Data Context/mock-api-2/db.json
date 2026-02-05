@@ -35,42 +35,6 @@
       "name": "Tiny Rick",
       "subtitle": "I'm Tiny Rick!",
       "image": "https://rickandmortyapi.com/api/character/avatar/353.jpeg"
-    },
-    {
-      "id": 7,
-      "name": "Noob-Noob",
-      "subtitle": "God damn!",
-      "image": "https://rickandmortyapi.com/api/character/avatar/248.jpeg"
-    },
-    {
-      "id": 8,
-      "name": "Scary Terry",
-      "subtitle": "You can run but you can't hide, bitch!",
-      "image": "https://rickandmortyapi.com/api/character/avatar/306.jpeg"
-    },
-    {
-      "id": 9,
-      "name": "Krombopulos Michael",
-      "subtitle": "Here I go killing again!",
-      "image": "https://rickandmortyapi.com/api/character/avatar/195.jpeg"
-    },
-    {
-      "id": 10,
-      "name": "Snowball",
-      "subtitle": "Where are my testicles, Summer?",
-      "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
-    },
-    {
-      "id": 11,
-      "name": "Doofus Rick",
-      "subtitle": "I'm not going to eat it.",
-      "image": "https://rickandmortyapi.com/api/character/avatar/118.jpeg"
-    },
-    {
-      "id": 12,
-      "name": "Mr. Goldenfold",
-      "subtitle": "Five more minutes of this and I'm going to get mad!",
-      "image": "https://rickandmortyapi.com/api/character/avatar/228.jpeg"
     }
   ]
 }
